@@ -4,6 +4,6 @@
 
   <li/> Rail Type: MGN9 </li>
   <li/> Carriages: MGN9C (Short) </li>
-  <li/> Rail Length: 200mm </li>
+  <li/> Rail Length: 600mm </li>
   <li/> Material: 440C Stainless Steel</li>
 
